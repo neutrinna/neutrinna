@@ -9,8 +9,8 @@
 - ☢️ Сurious fact: I was involved in the design of nuclear power plants around the world 
 
 <h3>Connect with me:</h3>
-<a href="https://t.me/NesyaNesya" target="blank"><img align="center" src="https://antella.salon/wp-content/uploads/2022/04/telega.png" alt="telegram icon" height="40" width="40" /></a>
-<a href="mailto:melikhovainna@gmail.com" target="blank"><img align="center" src="https://www.liveagent.com/app/uploads/2020/11/logo-gmail.png" alt="gmail icon" height="60" width="75" /></a>
+<a href="https://t.me/NesyaNesya" target="blank"><img align="center" src="./icons/telegram.svg" alt="telegram icon" height="40" width="40" /></a>
+<a href="mailto:melikhovainna@gmail.com" target="blank"><img align="center" src="./icons/gmail.svg" alt="gmail icon" height="40" width="40" /></a>
 
 <h3>Technologies:</h3>
 <p align="left">
